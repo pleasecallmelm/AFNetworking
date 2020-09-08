@@ -1,0 +1,5 @@
+
+module LMAFNetWorking [system]{
+    header "AFNetworking.h"
+    export *
+}
